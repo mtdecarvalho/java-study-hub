@@ -1,4 +1,4 @@
-package model.exceptions;
+package exemplo_model.exceptions;
 
 public class DomainException extends Exception {
 

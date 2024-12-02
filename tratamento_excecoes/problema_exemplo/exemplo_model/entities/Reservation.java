@@ -1,11 +1,11 @@
-package model.entities;
+package exemplo_model.entities;
 
 import java.time.Duration;
 import java.time.Instant;
 import java.time.ZoneId;
 import java.time.format.DateTimeFormatter;
 
-import model.exceptions.DomainException;
+import exemplo_model.exceptions.DomainException;
 
 public class Reservation {
 	private Integer roomNumber;

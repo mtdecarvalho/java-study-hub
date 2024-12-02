@@ -1,4 +1,4 @@
-package application;
+package exemplo_application;
 
 import java.time.Instant;
 import java.time.LocalDate;
@@ -6,8 +6,8 @@ import java.time.ZoneId;
 import java.time.format.DateTimeFormatter;
 import java.util.Scanner;
 
-import model.entities.Reservation;
-import model.exceptions.DomainException;
+import exemplo_model.entities.Reservation;
+import exemplo_model.exceptions.DomainException;
 
 public class Program {
 
